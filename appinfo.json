@@ -1,0 +1,73 @@
+{
+  "uuid": "bcfb9058-4ff8-4c65-aca8-a48593e2038a",
+  "shortName": "Polar",
+  "longName": "Polar",
+  "companyName": "Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_BLACK",
+        "file": "images/black.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D0",
+        "file": "images/d0.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D1",
+        "file": "images/d1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D2",
+        "file": "images/d2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D3",
+        "file": "images/d3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D4",
+        "file": "images/d4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D5",
+        "file": "images/d5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D6",
+        "file": "images/d6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D7",
+        "file": "images/d7.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D8",
+        "file": "images/d8.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_D9",
+        "file": "images/d9.png"
+      }
+    ]
+  }
+}
